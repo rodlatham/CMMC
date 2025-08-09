@@ -1,0 +1,331 @@
+# AC.L1-3.1.1
+Role Based Access Control (RBAC)
+
+# AC.L1-3.1.2
+Secure Baseline Configurations (SBC)
+
+# AC.L2-3.1.3
+Data Loss Prevention (DLP)
+
+# AC.L2-3.1.4
+Role Based Access Control (RBAC)
+
+# AC.L2-3.1.5
+Secure Baseline Configurations (SBC)
+
+# AC.L2-3.1.6
+Privileged Access Management (PAM)
+
+# AC.L2-3.1.7
+Identity & Access Management (IAM)
+
+# AC.L2-3.1.8
+Secure Baseline Configurations (SBC)
+
+# AC.L2-3.1.9
+Data Classification Scheme
+
+# AC.L2-3.1.10
+Secure Baseline Configurations (SBC)
+
+# AC.L2-3.1.11
+Secure Baseline Configurations (SBC)
+
+# AC.L2-3.1.12
+VPN Concentrator
+
+# AC.L2-3.1.13
+VPN Concentrator
+
+# AC.L2-3.1.14
+VPN Concentrator
+
+# AC.L2-3.1.15
+VPN Concentrator
+
+# AC.L2-3.1.16
+Secure Baseline Configurations (SBC)
+
+# AC.L2-3.1.17
+Secure Baseline Configurations (SBC)
+
+# AC.L2-3.1.18
+Mobile Device Management (MDM)
+
+# AC.L2-3.1.19
+Mobile Device Management (MDM)
+
+# AC.L1-3.1.20
+Access Control List (ACL)
+
+# AC.L2-3.1.21
+Secure Baseline Configurations (SBC)
+
+# AC.L1-3.1.22
+Data Loss Prevention (DLP)
+
+# AT.L2-3.2.1
+Learning Management System (LMS)
+
+# AT.L2-3.2.2
+Learning Management System (LMS)
+
+# AT.L2-3.2.3
+Learning Management System (LMS)
+
+# AU.L2-3.3.1
+Centralized Log Management
+
+# AU.L2-3.3.2
+Secure Baseline Configurations (SBC)
+
+# AU.L2-3.3.3
+Centralized Log Management
+
+# AU.L2-3.3.4
+Centralized Log Management
+
+# AU.L2-3.3.5
+Centralized Log Management
+
+# AU.L2-3.3.6
+Centralized Log Management
+
+# AU.L2-3.3.7
+Secure Baseline Configurations (SBC)
+
+# AU.L2-3.3.8
+Centralized Log Management
+
+# AU.L2-3.3.9
+Secure Baseline Configurations (SBC)
+
+# CM.L2-3.4.1
+Secure Baseline Configurations (SBC)
+
+# CM.L2-3.4.2
+Identity & Access Management (IAM)
+
+# CM.L2-3.4.3
+Identity & Access Management (IAM)
+
+# CM.L2-3.4.4
+Change Control Solution
+
+# CM.L2-3.4.5
+Change Control Solution
+
+# CM.L2-3.4.6
+Secure Baseline Configurations (SBC)
+
+# CM.L2-3.4.7
+Secure Baseline Configurations (SBC)
+
+# CM.L2-3.4.8
+Blacklisting
+Solution
+
+# CM.L2-3.4.9
+Identity & Access Management (IAM)
+
+# IA.L1-3.5.1
+Identity & Access Management (IAM)
+
+# IA.L1-3.5.2
+Identity & Access Management (IAM)
+
+# IA.L2-3.5.3
+Identity & Access Management (IAM)
+
+# IA.L2-3.5.4
+Identity & Access Management (IAM)
+
+# IA.L2-3.5.5
+Identity & Access Management (IAM)
+
+# IA.L2-3.5.6
+Identity & Access Management (IAM)
+
+# IA.L2-3.5.7
+Identity & Access Management (IAM)
+
+# IA.L2-3.5.8
+Identity & Access Management (IAM)
+
+# IA.L2-3.5.9
+Identity & Access Management (IAM)
+
+# IA.L2-3.5.10
+Identity & Access Management (IAM)
+
+# IA.L2-3.5.11
+Identity & Access Management (IAM)
+
+# IR.L2-3.6.1
+[not tied to a specific technology]
+
+# IR.L2-3.6.2
+Incident Response Plan (IRP)
+
+# IR.L2-3.6.3
+[not tied to a specific technology]
+
+# MA.L2-3.7.1
+Patch Management Solution
+
+# MA.L2-3.7.2
+Identity & Access Management (IAM)
+
+# MA.L2-3.7.3
+IT Asset Management (ITAM)
+
+# MA.L2-3.7.4
+Antimalware Solution
+
+# MA.L2-3.7.5
+Multi-Factor Authentication (MFA)
+
+# MA.L2-3.7.6
+Session Recording (logging)
+
+# MP.L2-3.8.1
+[not tied to a specific technology]
+
+# MP.L2-3.8.2
+[not tied to a specific technology]
+
+# MP.L1-3.8.3
+IT Asset Management (ITAM)
+
+# MP.L2-3.8.4
+Data Classification Solution
+
+# MP.L2-3.8.5
+[not tied to a specific technology]
+
+# MP.L2-3.8.6
+Cryptographic Solution (data at rest)
+
+# MP.L2-3.8.7
+Secure Baseline Configurations (SBC)
+
+# MP.L2-3.8.8
+Data Loss Prevention (DLP)
+
+# MP.L2-3.8.9
+Backup Solution
+
+# PS.L2-3.9.1
+[not tied to a specific technology]
+
+# PS.L2-3.9.2
+[not tied to a specific technology]
+
+# PE.L1-3.10.1
+[not tied to a specific technology]
+
+# PE.L2-3.10.2
+Physical Access Control (PAC)
+
+# PE.L1-3.10.3
+Physical Access Control (PAC)
+
+# PE.L1-3.10.4
+Physical Access Control (PAC)
+
+# PE.L1-3.10.5
+Physical Access Control (PAC)
+
+# PE.L2-3.10.6
+Physical Access Control (PAC)
+
+# RA.L2-3.11.1
+Risk Management Program (RMP)
+
+# RA.L2-3.11.2
+IT Asset Management (ITAM)
+
+# RA.L2-3.11.3
+Secure Baseline Configurations (SBC)
+
+# CA.L2-3.12.1
+[not tied to a specific technology]
+
+# CA.L2-3.12.2
+Risk Management Program (RMP)
+
+# CA.L2-3.12.3
+[not tied to a specific technology]
+
+# CA.L2-3.12.4
+[not tied to a specific technology]
+
+# SC.L1-3.13.1
+Secure Baseline Configurations (SBC)
+
+# SC.L2-3.13.2
+[not tied to a specific technology]
+
+# SC.L2-3.13.3
+Secure Baseline Configurations (SBC)
+
+# SC.L2-3.13.4
+Secure Baseline Configurations (SBC)
+
+# SC.L1-3.13.5
+Secure Baseline Configurations (SBC)
+
+# SC.L2-3.13.6
+Access Control List (ACL)
+
+# SC.L2-3.13.7
+Secure Baseline Configurations (SBC)
+
+# SC.L2-3.13.8
+Secure Baseline Configurations (SBC)
+
+# SC.L2-3.13.9
+Secure Baseline Configurations (SBC)
+
+# SC.L2-3.13.10
+Certificate Management Solution
+
+# SC.L2-3.13.11
+Secure Baseline Configurations (SBC)
+
+# SC.L2-3.13.12
+IT Asset Management (ITAM)
+
+# SC.L2-3.13.13
+Secure Baseline Configurations (SBC)
+
+# SC.L2-3.13.14
+Secure Baseline Configurations (SBC)
+
+# SC.L2-3.13.15
+Secure Baseline Configurations (SBC)
+
+# SC.L2-3.13.16
+Secure Baseline Configurations (SBC)
+
+# SI.L1-3.14.1
+Patch Management Solution
+
+# SI.L1-3.14.2
+Secure Baseline Configurations (SBC)
+
+# SI.L2-3.14.3
+Emerging Threats (ET) Intelligence Feed
+
+# SI.L1-3.14.4
+Secure Baseline Configurations (SBC)
+
+# SI.L1-3.14.5
+Secure Baseline Configurations (SBC)
+
+# SI.L2-3.14.6
+Network
+Firewall
+
+# SI.L2-3.14.7
+Network Baselines
